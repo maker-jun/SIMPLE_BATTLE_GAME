@@ -32,9 +32,9 @@ public class CharacterSelect extends AppCompatActivity {
         data.add(captainAmerica);
         data.add(ironMan);
 
-        // TODO: 2020-06-07 리스트를 이용해서 어댑터 뷰 생성하면 문자 출력이 제대로 안됨 
+        // TODO: 2020-06-07 리스트를 이용해서 어댑터 뷰 생성하면 문자 출력이 제대로 안됨
         // TODO: 2020-06-07 배열을 이용해서 해보자 ㅁ
-        
+
         //Character[] data2 = new Character[2];
         data2[0]=captainAmerica;
         data2[1]=ironMan;
